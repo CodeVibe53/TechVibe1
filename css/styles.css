@@ -1,0 +1,236 @@
+/* class selectors */
+.navbar-brand
+{
+  font-size: 1.5rem;
+  font-family: "georgia", cursive;
+  font-weight: bold;
+}
+.nav-item
+{
+  padding : 0 10px;
+}
+
+.nav-link
+{
+  font-size : 1.2rem;
+  font-family: "georgia", cursive, light;
+}
+.h1
+{
+  color:#225e9e ;
+  font-family: 'georgia', cursive;
+  font-size : 2rem;
+  line-height : 1.5;
+  padding-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.h33
+{
+  color: blue;
+}
+.footp
+{
+  padding-top: 2px;
+  padding-bottom: 2px;
+  font-size: 1rem;
+  color: #225e9e;
+}
+
+.p
+{
+  color:#225e9e ;
+  font-family: 'georgia', cursive;
+  font-size : 1.3rem;
+  line-height : 1.5;
+  padding-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+
+}
+.hr1
+{
+  border: solid;
+  border-color:  #225e9e;
+  border-width: 40px;
+  border-bottom: 40px;
+  width: 100%;
+}
+
+.h3
+{
+  color:#225e9e ;
+  font-family: 'georgia', cursive;
+  font-size : 2rem;
+  line-height : 1.5;
+  padding-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  align-items: center;
+}
+
+.padding{
+  padding: 20px 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.bc
+{
+  background-color:  #001013;
+}
+
+.link-button
+{
+  margin: 5% 3% 5% 0;
+}
+
+.icon
+{
+  color:#225e9e;
+}
+.icon:hover
+{
+  color: #001013;
+}
+
+.container-fluid
+{
+  padding: 3% 20%;
+  background-color:  #040202;
+}
+.container-fluid1
+{
+  padding: 3% 20%;
+  background-color:  #040202;
+}
+.container-fluid2
+{
+  padding: 3% 20%;
+  background-color: #001013;
+}
+.container-fluid3
+{
+  padding: 3% 20%;
+  background-color:  #040202;
+}
+.container-fluid4
+{
+  background-color:  #001013;
+  padding: 3% 15%;
+}
+.container-fluid5
+{
+  background-color:  #001013;
+  padding: 3% 15%;
+}
+.container-fluid6
+{
+  background-color:  #040202;
+  padding: 3% 15%;
+}
+.carousel-item
+{
+  padding: 5% 15%;
+}
+.h2
+{
+  color:#225e9e ;
+  font-family: 'georgia', cursive;
+  font-size : 2rem;
+  line-height : 1.5;
+  padding-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.bottom-container
+{
+  text-align: center;
+  position: center;
+  margin-left: 20px;
+}
+.img2
+{
+  width: 400px;
+  height: 500px;
+  border-radius: 20%;
+}
+.img11
+{
+  border-radius: 10%;
+  height: 400px;
+  width: 300px;
+  margin: 10px auto;
+}
+.feature-box
+{
+  text-align: center;
+  padding: 5%;
+  color:#225e9e ;
+}
+.press-logo
+{
+  width: 25%;
+  margin: 20px 20px 20px;
+}
+
+
+/* tags */
+a
+{
+  font-family: "georgia", cursive;
+}
+body {
+  margin : 0;
+  background-color: #001013;
+}
+hr{
+  border: solid;
+  border-color:  #040202;
+  border-width: 40px;
+  border-bottom: 40px;
+  width: 100%;
+}
+em
+{
+  color:#225e9e;
+  padding-bottom: 10px;
+}
+/* id selectors */
+#title
+{
+  background-color: #040202;
+  align-items: center;
+  padding : 0 10px;
+}
+#features
+{
+  background-color: #040202;
+  position: relative;
+  margin: 20px 0;
+  align-items: center;
+}
+#pricing
+{
+  background-color: #040202;
+}
+#headlines
+{
+  background-color:: #040202;
+  margin: 20px 0;
+}
+
+#testimonials
+{
+  background-color:  #001013;
+  text-align: center;
+}
+
+#cta
+{
+  text-align: center;
+  background-color: #001013;
+}
+
+#testimonial-carousel
+{
+  background-color: #040202;
+  border-radius: 40%
+}
